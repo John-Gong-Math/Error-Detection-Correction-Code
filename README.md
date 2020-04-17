@@ -1,3 +1,3 @@
-Goppa code;
-Cyclic code;
+Goppa code-
+Cyclic code-
 Berlekamp's Algorithm
